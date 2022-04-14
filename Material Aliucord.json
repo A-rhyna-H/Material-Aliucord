@@ -2,7 +2,8 @@
     "manifest": {
         "author": "ArhynaH#9527",
         "name": "Material Aliucord",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/A-rhyna-H\/Material-Aliucord\/main\/Material%20Aliucord.json"
     },
     "background": {},
     "fonts": {
